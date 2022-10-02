@@ -1,0 +1,179 @@
+col_name,question,question_type,text
+Q1,Q1,choose-1,Which country would you like to represent for this survey?
+Q1_other,Q1,choose-1,Which country would you like to represent for this survey?
+Q2,Q2,choose-1,The country/nation identified in the previous question is...
+Q2_other,Q2,choose-1,The country/nation identified in the previous question is...
+Q3_basic_science,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_fisheries,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_mining,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_conservation,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_history,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_offshore_oil,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_renewable_energy,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_safety,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_telecommunications,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_climate_change,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q3_other,Q3,choose-3,What are the 3 most important deep sea issues in your country?
+Q4_importance,Q4,agree-disagree,Deep sea research and exploration are considered important in my country.
+Q4_qualified,Q4,agree-disagree,I think my country is both qualified and prepared to conduct deep sea research and exploration.
+Q4_in-country_tools,Q4,agree-disagree,We have in-country tools/technology to conduct deep sea research and exploration.
+Q4_in-country_expertise,Q4,agree-disagree,We have in-country expertise to conduct deep sea research and exploration.
+Q5_science,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_education,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_policy,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_developing_nation,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_engineering,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_traditional_knowledge,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_recreation,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_industry,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_philanthropy,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_student,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_conservation,Q5,choose-3,What are the primary roles you represent in your country?
+Q5_other,Q5,choose-3,What are the primary roles you represent in your country?
+Q6_none,Q6,choose-all,"If you carry out field research, in what marine environment(s) do you work?"
+Q6_inshore,Q6,choose-all,"If you carry out field research, in what marine environment(s) do you work?"
+Q6_nearshore,Q6,choose-all,"If you carry out field research, in what marine environment(s) do you work?"
+Q6_continental_shelf,Q6,choose-all,"If you carry out field research, in what marine environment(s) do you work?"
+Q6_deep,Q6,choose-all,"If you carry out field research, in what marine environment(s) do you work?"
+Q6_other,Q6,choose-all,"If you carry out field research, in what marine environment(s) do you work?"
+Q7_lab1,Q7,free-text,Which universities and/or research labs study the deep sea in your country?
+Q7_lab2,Q7,free-text,Which universities and/or research labs study the deep sea in your country?
+Q7_lab3,Q7,free-text,Which universities and/or research labs study the deep sea in your country?
+Q7_lab4,Q7,free-text,Which universities and/or research labs study the deep sea in your country?
+Q7_lab5,Q7,free-text,Which universities and/or research labs study the deep sea in your country?
+Q8_gov1,Q8,free-text,Which government agencies/ministries study the deep sea in your country?
+Q8_gov2,Q8,free-text,Which government agencies/ministries study the deep sea in your country?
+Q8_gov3,Q8,free-text,Which government agencies/ministries study the deep sea in your country?
+Q8_gov4,Q8,free-text,Which government agencies/ministries study the deep sea in your country?
+Q8_gov5,Q8,free-text,Which government agencies/ministries study the deep sea in your country?
+Q9_org1,Q9,free-text,Are there other organizations that deal with deep sea issues in your country?
+Q9_org2,Q9,free-text,Are there other organizations that deal with deep sea issues in your country?
+Q9_org3,Q9,free-text,Are there other organizations that deal with deep sea issues in your country?
+Q9_org4,Q9,free-text,Are there other organizations that deal with deep sea issues in your country?
+Q9_org5,Q9,free-text,Are there other organizations that deal with deep sea issues in your country?
+Q10_none,Q10,choose-all,What marine industries exist in your country?
+Q10_aquaculture,Q10,choose-all,What marine industries exist in your country?
+Q10_mining,Q10,choose-all,What marine industries exist in your country?
+Q10_fisheries,Q10,choose-all,What marine industries exist in your country?
+Q10_biotechnology,Q10,choose-all,What marine industries exist in your country?
+Q10_construction,Q10,choose-all,What marine industries exist in your country?
+Q10_research,Q10,choose-all,What marine industries exist in your country?
+Q10_transport,Q10,choose-all,What marine industries exist in your country?
+Q10_renewable_energy,Q10,choose-all,What marine industries exist in your country?
+Q10_offshore_oil,Q10,choose-all,What marine industries exist in your country?
+Q10_conservation,Q10,choose-all,What marine industries exist in your country?
+Q10_safety,Q10,choose-all,What marine industries exist in your country?
+Q10_shipping,Q10,choose-all,What marine industries exist in your country?
+Q10_tourism,Q10,choose-all,What marine industries exist in your country?
+Q10_other,Q10,choose-all,What marine industries exist in your country?
+Q11,Q11,importance,How important are ships/vessels for your work?
+Q12,Q12,choose-1,What kinds of vessels do you have access to for deep sea work in your country?
+Q12_other,Q12,choose-1,What kinds of vessels do you have access to for deep sea work in your country?
+Q13_research,Q13,choose-all,What kinds of vessels do you have access to for deep sea work in your country?
+Q13_fishing,Q13,choose-all,What kinds of vessels do you have access to for deep sea work in your country?
+Q13_cruise,Q13,choose-all,What kinds of vessels do you have access to for deep sea work in your country?
+Q13_recreational,Q13,choose-all,What kinds of vessels do you have access to for deep sea work in your country?
+Q13_traditional,Q13,choose-all,What kinds of vessels do you have access to for deep sea work in your country?
+Q13_no_access,Q13,choose-all,What kinds of vessels do you have access to for deep sea work in your country?
+Q13_other,Q13,choose-all,What kinds of vessels do you have access to for deep sea work in your country?
+Q14_cost,Q14,agree-disagree,How well do the vessels in your country meet your needs in terms of cost?
+Q14_availability,Q14,agree-disagree,How well do the vessels in your country meet your needs in terms of availability?
+Q14_capabilities,Q14,agree-disagree,How well do the vessels in your country meet your needs in terms of capabilities?
+Q14_size,Q14,agree-disagree,How well do the vessels in your country meet your needs in terms of size?
+Q14_duration,Q14,agree-disagree,How well do the vessels in your country meet your needs in terms of duration?
+Q14_other,Q14,agree-disagree,What other factors affect how well vessels in your country meet your needs?
+Q15,Q15,importance,What is the potential impact for increased access to vessels in your country?
+Q16,Q16,free-text,Is there anything else you would like to share about vessels in your country?
+Q17,Q17,importance,How important are deep submergence vehicles for your work?
+Q18_none,Q18,choose-all,What kinds of deep submergence vehicles do you have access to in your country?
+Q18_rov,Q18,choose-all,What kinds of deep submergence vehicles do you have access to in your country?
+Q18_auv,Q18,choose-all,What kinds of deep submergence vehicles do you have access to in your country?
+Q18_hov,Q18,choose-all,What kinds of deep submergence vehicles do you have access to in your country?
+Q18_bruv,Q18,choose-all,What kinds of deep submergence vehicles do you have access to in your country?
+Q18_drifters,Q18,choose-all,What kinds of deep submergence vehicles do you have access to in your country?
+Q18_tow_sleds,Q18,choose-all,What kinds of deep submergence vehicles do you have access to in your country?
+Q18_other,Q18,choose-all,What kinds of deep submergence vehicles do you have access to in your country?
+Q19_rov,Q19,agree-disagree,What is the approximate depth range of Remotely Operated Vehicles (ROVs) in your country?
+Q19_auv,Q19,agree-disagree,What is the approximate depth range of Autonomous Underwater Vehicles (AUVs) in your country?
+Q19_hov,Q19,agree-disagree,What is the approximate depth range of Submersibles/Human Occupied Vehicles (HOVs) in your country?
+Q19_bruv,Q19,agree-disagree,What is the approximate depth range of Landers/Benthic Remote Underwater Video (BRUVs) in your country?
+Q19_drifters,Q19,agree-disagree,What is the approximate depth range of drifters in your country?
+Q19_tow_sleds,Q19,agree-disagree,What is the approximate depth range of tow sleds in your country?
+Q19_other,Q19,agree-disagree,What is the approximate depth range of other submergence vehicles in your country?
+Q20_cost,Q20,agree-disagree,How well do the deep submergence vehicles in your country meet your needs in terms of cost?
+Q20_availability,Q20,agree-disagree,How well do the deep submergence vehicles in your country meet your needs in terms of availability?
+Q20_capabilities,Q20,agree-disagree,How well do the deep submergence vehicles in your country meet your needs in terms of capabilities?
+Q20_size,Q20,agree-disagree,How well do the deep submergence vehicles in your country meet your needs in terms of size?
+Q20_duration,Q20,agree-disagree,How well do the deep submergence vehicles in your country meet your needs in terms of duration?
+Q20_other,Q20,agree-disagree,What other factors affect how well deep submergence vehicles in your country meet your needs?
+Q21,Q21,importance,What is the potential impact for increased access to deep submergence vehicles in your country?
+Q22,Q22,free-text,Is there anything else you would like to share about deep submergence vehicles in your country?
+Q23,Q23,importance,How important are deep sea sensors for your work?
+Q24_none,Q24,choose-all,What kinds of deep sea sensors do you have access to in your country?
+Q24_ctd,Q24,choose-all,What kinds of deep sea sensors do you have access to in your country?
+Q24_o2,Q24,choose-all,What kinds of deep sea sensors do you have access to in your country?
+Q24_eDNA,Q24,choose-all,What kinds of deep sea sensors do you have access to in your country?
+Q24_imaging,Q24,choose-all,What kinds of deep sea sensors do you have access to in your country?
+Q24_water_sampling,Q24,choose-all,What kinds of deep sea sensors do you have access to in your country?
+Q24_navigation,Q24,choose-all,What kinds of deep sea sensors do you have access to in your country?
+Q24_mapping,Q24,choose-all,What kinds of deep sea sensors do you have access to in your country?
+Q24_other,Q24,choose-all,What kinds of deep sea sensors do you have access to in your country?
+Q25_cost,Q25,agree-disagree,How well do the deep sea sensors in your country meet your needs in terms of cost?
+Q25_availability,Q25,agree-disagree,How well do the deep sea sensors in your country meet your needs in terms of availability?
+Q25_capabilities,Q25,agree-disagree,How well do the deep sea sensors in your country meet your needs in terms of capabilities?
+Q25_duration,Q25,agree-disagree,How well do the deep sea sensors in your country meet your needs in terms of duration?
+Q25_depth,Q25,agree-disagree,How well do the deep sea sensors in your country meet your needs in terms of depth?
+Q25_ease,Q25,agree-disagree,How well do the deep sea sensors in your country meet your needs in terms of ease?
+Q25_accuracy,Q25,agree-disagree,How well do the deep sea sensors in your country meet your needs in terms of accuracy?
+Q25_other,Q25,agree-disagree,What other factors affect how well deep sea sensors in your country meet your needs?
+Q26,Q26,importance,What is the potential impact for increased access to deep sea sensors in your country?
+Q27,Q27,free-text,Is there anything else you would like to share about deep sea sensors in your country?
+Q28,Q28,importance,How important are data analysis & access tools for your work?
+Q29_none,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q29_cloud,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q29_data_management,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q29_data_storage,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q29_data_viz,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q29_sequencing,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q29_gis,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q29_ml,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q29_dont_know,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q29_other,Q29,choose-all,What kinds of data analysis & access tools do you have access to in your country?
+Q30_cost,Q30,agree-disagree,How well do the data analysis & access tools in your country meet your needs in terms of cost?
+Q30_availability,Q30,agree-disagree,How well do the data analysis & access tools in your country meet your needs in terms of availability?
+Q30_capabilities,Q30,agree-disagree,How well do the data analysis & access tools in your country meet your needs in terms of capabilities?
+Q30_ease,Q30,agree-disagree,How well do the data analysis & access tools in your country meet your needs in terms of duration?
+Q30_bandwidth,Q30,agree-disagree,How well do the data analysis & access tools in your country meet your needs in terms of depth?
+Q30_other,Q30,agree-disagree,What other factors affect how well data analysis & access tools in your country meet your needs?
+Q31,Q31,importance,What is the potential impact for increased access to data analysis & access tools in your country?
+Q32,Q32,free-text,Is there anything else you would like to share about data analysis & access tools in your country?
+Q33_funding,Q33,choose-3,What are the top 3 challenges to deep sea science and exploration in your country?
+Q33_vessel_access,Q33,choose-3,What are the top 3 challenges to deep sea science and exploration in your country?
+Q33_vehicle_access,Q33,choose-3,What are the top 3 challenges to deep sea science and exploration in your country?
+Q33_sensor_access,Q33,choose-3,What are the top 3 challenges to deep sea science and exploration in your country?
+Q33_data_access,Q33,choose-3,What are the top 3 challenges to deep sea science and exploration in your country?
+Q33_scalability,Q33,choose-3,What are the top 3 challenges to deep sea science and exploration in your country?
+Q33_human_capacity,Q33,choose-3,What are the top 3 challenges to deep sea science and exploration in your country?
+Q33_connections,Q33,choose-3,What are the top 3 challenges to deep sea science and exploration in your country?
+Q33_other,Q33,choose-3,What are the top 3 challenges to deep sea science and exploration in your country?
+Q34_deeper_tech,Q34,choose-3,What are you most excited about in the next 5-10 years for deep sea science and exploration in your country?
+Q34_cheaper_tech,Q34,choose-3,What are you most excited about in the next 5-10 years for deep sea science and exploration in your country?
+Q34_better_tech,Q34,choose-3,What are you most excited about in the next 5-10 years for deep sea science and exploration in your country?
+Q34_scalable_tech,Q34,choose-3,What are you most excited about in the next 5-10 years for deep sea science and exploration in your country?
+Q34_data_access,Q34,choose-3,What are you most excited about in the next 5-10 years for deep sea science and exploration in your country?
+Q34_training,Q34,choose-3,What are you most excited about in the next 5-10 years for deep sea science and exploration in your country?
+Q34_networking,Q34,choose-3,What are you most excited about in the next 5-10 years for deep sea science and exploration in your country?
+Q34_other,Q34,choose-3,What are you most excited about in the next 5-10 years for deep sea science and exploration in your country?
+Q35,Q35,free-text,What is your name?
+Q36,Q36,free-text,What is your affiliation?
+Q37,Q37,free-text,What is your email address?
+Q38,Q38,choose-1,Would you like to be added to the Ocean Discovery League email address to receive notifications of survey results?
+Q39,Q39,choose-1,What is your age?
+Q40,Q40,choose-1,What is your country of primary residence?
+Q40_other,Q40,choose-1,What is your country of primary residence?
+Q41,Q41,choose-1,As what gender do you identify?
+Q41_other,Q41,choose-1,As what gender do you identify?
+Q42,Q42,choose-1,What is the highest degree or education level you have completed?
+Q42_other,Q42,choose-1,What is the highest degree or education level you have completed?
+Q43,Q43,choose-1,What is the organizational sector of your affiliation?
+Q43_other,Q43,choose-1,What is the organizational sector of your affiliation?
